@@ -328,3 +328,50 @@ span{
     margin-top: 20px;
     margin-bottom: 20px;
 }
+
+.Taka-Input{
+    height: 50px;
+    width: 1080px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+
+.subscribe-container{
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    justify-content: center;
+    width: 1380px;
+    height: 395px;
+    margin: 80px 260px;
+    background-color: rgba(198, 228, 214, 1);
+    border-radius: 16px;
+    
+
+}
+
+.amount-inout{
+    width: 800px;
+    height: 40px;
+}
+
+.sub-btn{
+    width: 90px;
+    height: 45px;
+    border: none;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    background-color: rgba(0, 106, 80, 1);
+    color: white;
+}
+
+.subscribe-container h1{
+    font-size: 40px;
+    font-weight: bold;
+
+}
+
+.subscribe-container p{
+    font-size: 16px;
+}
