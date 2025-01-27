@@ -1,0 +1,77 @@
+.fira-sans-regular{
+    font-family: "Fira Sans", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.body-color{
+    background-color: rgba(241, 241, 243, 1);
+}
+
+/* Nav Style */
+.nav-box{
+    display: flex;
+    justify-content: space-between;
+    margin: 31px 160px;
+}
+
+.nav-box h1{
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.sign-up-btn{
+    width: 116px;
+    height: 52px;
+    border-radius: 8px;
+    color: rgba(0, 106, 80, 1);
+    font-size: 18px;
+    text-align: center;
+    font-weight: 600px;
+    border-color: rgba(0, 106, 80, 1);
+}
+
+/* nav container Style  */
+.hero-container{
+    display: flex;
+    background-color: rgba(198, 228, 214, 1);
+    width: 1380px;
+    height: 560px;
+    margin: 0px 160px 0px 160px;
+    border-radius: 24px;
+    padding: 80px 100px;
+    gap: 64px;
+}
+
+.hero-discription{
+    width: 622px;
+    height: 326px;
+    margin: 117px 60px;
+}
+
+.img-bd{
+    width: 474.03px;
+    height: 400px;
+    margin: 80px 64px;
+}
+
+.hero-discription h3{
+    font-size: 24px;
+    font-weight: 200px;
+    opacity: 0.5;
+}
+
+.hero-discription h1{
+    font-size: 56px;
+    font-weight: bold;  
+}
+
+.hero-discription button{
+    width: 270px;
+    height: 56px;
+    background-color: rgba(0, 106, 80, 1);
+    color: white;
+    font-size: 18px;
+    font-weight: 600px;
+    border-radius: 8px;
+}
