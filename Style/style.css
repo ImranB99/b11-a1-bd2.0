@@ -260,3 +260,71 @@ margin-left: 260px;
     margin-left: 20px;
     margin-bottom: 20px;
 }
+
+.donate-contener{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 1380px;
+    margin-left: 260px;
+    column-gap: 20px;
+}
+
+.donate-contener h1{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 80px;
+}
+
+.donate-contener p{
+    text-align: center;
+    font-size: 16px;
+    opacity: 0.8;
+    margin-bottom: 60px;
+}
+
+
+.Price-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+
+    
+}
+
+span{
+    background-color: white;
+    font-size: 40px;
+    font-weight: bold;
+    padding: 30px 50px;
+    border-radius: 16px;
+    
+}
+
+.green{
+    background-color: rgba(198, 228, 214, 1);
+}
+
+.other-ammount{
+    margin-top: 50px;
+    background-color: white;
+    text-align: center;
+    padding: 20px 500px;
+   
+    font-size: 20px;
+}
+
+ .btn-amount {
+    background-color: rgba(0, 106, 80, 1);
+    border-radius: 8px;
+    width: 140px;
+    height: 48px;
+    color: white;
+    font-size: ;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
